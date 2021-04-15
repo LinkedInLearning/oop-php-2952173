@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+    color: black;
+}
+
+div {
+    background: white;
+    box-shadow: 5px 5px #111;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
