@@ -16,4 +16,4 @@ Die Quellcodes zu dem Kurs sind nach Kapiteln strukturiert. In jedem der Ordner 
 ## Über den Autor - Ralph Steyer
 Sie finden [weitere Kurse von Ralph Steyer](https://www.linkedin.com/learning/instructors/ralph-steyer) auf **LinkedIn Learning**. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/ralph-steyer-a69781/?trk=lil_instructor). 
 
-[tn-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQH-OISTmyWPew/learning-public-crop_675_1200/0/1590653521266?e=1646960400&v=beta&t=VobE89tDFbrtQeDj2pjAZ2m3R8-2IZVhhemvF_z-hnc
+[tn-url]: https://cdn.lynda.com/course/2952173/2952173-1590653516764-16x9.jpg
